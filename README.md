@@ -30,7 +30,7 @@ Docker • Git • GitHub Actions • Nginx
 ### 📫 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/nguyễn-thanh-minh-nhật-8b192235b/
-- **Email:** nhatnguyen281003@gmail.
+- **Email:** nhatnguyen281003@gmail.com
 
 ---
 
