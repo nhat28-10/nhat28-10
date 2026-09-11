@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nhật Nguyen
+# 👋 Hi, I'm Nguyễn Thanh Minh Nhật
 
 🎯 **Full-Stack Developer** from **Vietnam**  
 Recent Information Technology graduate focused on building practical and maintainable web applications.
