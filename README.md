@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Nhật Nguyen
 
-<!--
-**nhat28-10/nhat28-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Full-Stack Developer** from **Vietnam**  
+Recent Information Technology graduate focused on building practical and maintainable web applications.
 
-Here are some ideas to get you started:
+I enjoy working across both frontend and backend, especially building REST APIs, designing databases, and turning ideas into real-world applications.  
+Currently strengthening my backend and software engineering skills while growing as a Full-Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack
+
+**Languages:**  
+JavaScript • TypeScript • C# • SQL
+
+**Frontend:**  
+React.js • TypeScript • Tailwind CSS
+
+**Backend:**  
+Node.js • NestJS • ASP.NET Core
+
+**Databases:**  
+PostgreSQL
+
+**Tools & Infrastructure:**  
+Docker • Git • GitHub Actions • Nginx
+
+---
+
+### 📫 Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/nguyễn-thanh-minh-nhật-8b192235b/
+- **Email:** mailto: nhatnguyen281003@gmail.
+
+---
+
+💡 *“Build. Learn. Improve.”*
