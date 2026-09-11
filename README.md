@@ -11,16 +11,16 @@ Currently strengthening my backend and software engineering skills while growing
 ### 🧠 Tech Stack
 
 **Languages:**  
-JavaScript • TypeScript • C# • SQL
+JavaScript • TypeScript  • SQL 
 
 **Frontend:**  
 React.js • TypeScript • Tailwind CSS
 
 **Backend:**  
-Node.js • NestJS • ASP.NET Core
+Node.js • NestJS 
 
 **Databases:**  
-PostgreSQL
+PostgreSQL • MySQL
 
 **Tools & Infrastructure:**  
 Docker • Git • GitHub Actions • Nginx
