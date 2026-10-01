@@ -31,7 +31,7 @@ Docker • Git • GitHub Actions • Nginx
 
 - **LinkedIn:** https://www.linkedin.com/in/nguyễn-thanh-minh-nhật-8b192235b/
 - **Email:** nhatnguyen281003@gmail.com
-- **My Portfolio:** mnhnhat.vercel.app
+- **My Portfolio:** [mnhnhat.vercel.app](https://mnhnhat.vercel.app)
 ---
 
 💡 *“Build. Learn. Improve.”*
